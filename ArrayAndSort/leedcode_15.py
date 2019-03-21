@@ -1,0 +1,57 @@
+'''
+ 三数之和
+
+给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组。
+注意：答案中不可以包含重复的三元组。
+
+例如, 给定数组 nums = [-1, 0, 1, 2, -1, -4]，
+满足要求的三元组集合为：
+[
+  [-1, 0, 1],
+  [-1, -1, 2]
+]
+'''
+from itertools import combinations
+
+class Solution(object):
+    def twoSum(self, nums, start_ind, target):
+        '''
+        两数之和，O(N)
+        :param nums:
+        :param target:
+        :return:
+        '''
+        num_exi = set() # 储存被使用过的加数，用于去重
+        another_num_set = set() # 储存出现过的加数，以备使用
+        for ind in range(start_ind, len(nums)):
+            n = nums[ind]
+            another_num = target - n
+            if n in num_exi:
+                continue
+            if another_num in another_num_set:
+                yield another_num, n
+                num_exi.add(n)
+            another_num_set.add(n)
+
+    def threeSum(self, nums):
+        """
+        基于两数之和，O(N*N)
+        :type nums: List[int]
+        :rtype: List[List[int]]
+        """
+
+        res_list = []
+        nums.sort() # 很重要，去重
+        num_exi = set()
+        for ind, n in enumerate(nums):
+            if n not in num_exi:
+                target_4_two_sum = 0 - n
+                for num1, num2 in self.twoSum(nums, ind + 1, target_4_two_sum):
+                    res_list.append([n, num1, num2])
+            num_exi.add(n)
+        return res_list
+
+
+if __name__ == "__main__":
+    sol = Solution()
+    print(sol.threeSum([-1, 0, 1, 2, -1, -4]))
