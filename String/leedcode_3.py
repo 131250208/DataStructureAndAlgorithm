@@ -7,7 +7,7 @@ a|bcabca
     ^
 '''
 
-
+from collections import deque
 class Solution:
     def lengthOfLongestSubstring(self, s):
         """
@@ -16,40 +16,44 @@ class Solution:
         """
 
         '''
-        解法一，用了string.index()函数，这个函数是找子串的，本身有性能消耗。不过时间已经足够短了。
+        解法一：set + queue
         '''
+        # que = deque([])
+        # bag = set()
         # max_len_substr = 0
-        # substr = ""
-        # for c in s: # 遍历目标字符串
-        #     if c in substr: # 如果已经存在于子串中，更新一次最大长度，并截掉子串中包括重复字符及之前的部分
-        #         if len(substr) > max_len_substr:
-        #             max_len_substr = len(substr)
-        #         substr = substr[substr.index(c) + 1:]
-        #     substr += c # 无论有无重复字符，都将新字符加入到当前子串的末尾
-        #
-        # # 遍历结束再做一次更新，避免目标串中没有重复字符导致没有进行最大长度更新（因之前的更新操作是遇到重复字符才进行的
-        # if len(substr) > max_len_substr:
-        #     max_len_substr = len(substr)
+        # for c in s:
+        #     if c not in bag:
+        #         bag.add(c)
+        #         que.append(c)
+        #     else:
+        #         while True:
+        #             c_pop = que.popleft()
+        #             bag.remove(c_pop)
+        #             if c_pop == c:
+        #                 break
+        #         que.append(c)
+        #         bag.add(c)
+        #     max_len_substr = max(max_len_substr, len(que))
         # return max_len_substr
 
         '''
-        解法2: c++ 风格
+        解法2: map
         每次循环都更新最大子串长度，遇到重复只做更新start的操作
         '''
-        char2ind = {}
-        start, max_len_substr = 0, 0
-        for ind, c in enumerate(s):
-            if c in char2ind:
-                start = max(char2ind[c] + 1, start) # 遇到重复字符，更新start到子串重复字符之后，因为start之前的字符也还存在char2ind中，用max可以把小于start的忽略掉
+        if len(s) == 0:
+            return 0
 
-            char2ind[c] = ind # 字符到索引的映射
-            current_len = ind - start + 1 # 当前子串长度
-            if current_len > max_len_substr: # 更新最大长度的操作
-                max_len_substr = current_len
-
+        char2ind_dict = {s[0]: 0}
+        start = 0
+        max_len_substr = 1
+        for i in range(1, len(s)):
+            if s[i] in char2ind_dict:
+                start = max(char2ind_dict[s[i]] + 1, start)# 遇到重复字符，更新start到子串重复字符之后，因为start之前的字符也还存在char2ind中，用max可以把小于start的忽略掉，不进行更新操作
+            char2ind_dict[s[i]] = i
+            max_len_substr = max(max_len_substr, i - start + 1)
         return max_len_substr
 
 
 if __name__ == "__main__":
     solu = Solution()
-    print(solu.lengthOfLongestSubstring(" "))
+    print(solu.lengthOfLongestSubstring("abba"))

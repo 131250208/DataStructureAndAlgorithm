@@ -51,3 +51,6 @@ class Solution(object):
 if __name__ == "__main__":
     sol = Solution()
     print(sol.twoSum([2, 7, 11, 2, 15], 9))
+
+    bag = set()
+    bag.cl

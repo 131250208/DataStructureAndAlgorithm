@@ -33,6 +33,9 @@ class Solution(object):
                 num_exi.add(n)
             another_num_set.add(n)
 
+        # -------------------------------------------------
+        pass
+
     def threeSum(self, nums):
         """
         基于两数之和，O(N*N)
@@ -40,18 +43,53 @@ class Solution(object):
         :rtype: List[List[int]]
         """
 
-        res_list = []
-        nums.sort() # 很重要，去重
-        num_exi = set()
-        for ind, n in enumerate(nums):
-            if n not in num_exi:
-                target_4_two_sum = 0 - n
-                for num1, num2 in self.twoSum(nums, ind + 1, target_4_two_sum):
-                    res_list.append([n, num1, num2])
-            num_exi.add(n)
-        return res_list
+        # res_list = []
+        # nums.sort() # 很重要，去重
+        # num_exi = set()
+        # for ind, n in enumerate(nums):
+        #     if n not in num_exi:
+        #         target_4_two_sum = 0 - n
+        #         for num1, num2 in self.twoSum(nums, ind + 1, target_4_two_sum):
+        #             res_list.append([n, num1, num2])
+        #     num_exi.add(n)
+        # return res_list
 
+        # ---------------------------------------------------
+        return self.n_sum(nums, 3, 0)
 
+    def n_sum(self, nums, n, target):
+        if n == 2:
+            exi_set = set()
+            ban_set = set()
+            res_list = []
+            for num in nums:
+                if num in ban_set:
+                    continue
+                addent = target - num
+                if addent in exi_set:
+                    res_list.append([addent, num])
+                    ban_set.add(num)
+                    ban_set.add(addent)
+                exi_set.add(num)
+            return res_list
+        else:
+            res_list = []
+            exi_set = set()
+            # nums = sorted(nums)
+            for i in range(len(nums)):
+                if nums[i] in exi_set:
+                    continue
+                res_list_pre = self.n_sum(nums[i + 1:], n - 1, target - nums[i])
+
+                for res_pre in res_list_pre:
+                    res_pre.append(nums[i])
+                    res_list.append(res_pre)
+                exi_set.add(nums[i])
+            return res_list
+
+    def fourSum(self, nums, target):
+        return self.n_sum(nums, 4, target)
 if __name__ == "__main__":
     sol = Solution()
-    print(sol.threeSum([-1, 0, 1, 2, -1, -4]))
+    nums = [-1, 0, 1, 2, -1, -4]
+    print(sol.threeSum(nums))
