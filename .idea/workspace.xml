@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe49ada4-1f92-43ef-b7b9-9ec607b2a7d1" name="Default Changelist" comment="" />
+    <list default="true" id="fe49ada4-1f92-43ef-b7b9-9ec607b2a7d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAndSort/leedcode_60.py" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayAndSort/leedcode_60.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,21 +13,24 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_151.coverage" NAME="leedcode_151 Coverage Results" MODIFIED="1550735952369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_11.coverage" NAME="leetcode_11 Coverage Results" MODIFIED="1554720551898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_128.coverage" NAME="leedcode_128 Coverage Results" MODIFIED="1551513629708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
-    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_60.coverage" NAME="leedcode_60 Coverage Results" MODIFIED="1551682245225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_60.coverage" NAME="leedcode_60 Coverage Results" MODIFIED="1554353553079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_71.coverage" NAME="leedcode_71 Coverage Results" MODIFIED="1550822140505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_42.coverage" NAME="leedcode_42 Coverage Results" MODIFIED="1551698426728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_2.coverage" NAME="leedcode_2 Coverage Results" MODIFIED="1551956702804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_148.coverage" NAME="leedcode_148 Coverage Results" MODIFIED="1552300342663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_33.coverage" NAME="leedcode_33 Coverage Results" MODIFIED="1551086707060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_22.coverage" NAME="leetcode_22 Coverage Results" MODIFIED="1554786243386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_1.coverage" NAME="leedcode_1 Coverage Results" MODIFIED="1550826172833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_43.coverage" NAME="leedcode_43 Coverage Results" MODIFIED="1550733555370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_695.coverage" NAME="leedcode_695 Coverage Results" MODIFIED="1551079074979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_300.coverage" NAME="leetcode_300 Coverage Results" MODIFIED="1553140083075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPrograming" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$LIS.coverage" NAME="LIS Coverage Results" MODIFIED="1553137596237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPrograming" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_160.coverage" NAME="leedcode_160 Coverage Results" MODIFIED="1552380410161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
-    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1551495833311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1562315632941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_122.coverage" NAME="leetcode_122 Coverage Results" MODIFIED="1553152970803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPrograming" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$167.coverage" NAME="167 Coverage Results" MODIFIED="1568721061068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_142.coverage" NAME="leedcode_142 Coverage Results" MODIFIED="1552305518921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leed_code.coverage" NAME="leed_code Coverage Results" MODIFIED="1551087743883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_3.coverage" NAME="leedcode_3 Coverage Results" MODIFIED="1550660661766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
@@ -32,6 +38,9 @@
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$loser_tree.coverage" NAME="loser_tree Coverage Results" MODIFIED="1553059205142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classical" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_547.coverage" NAME="leedcode_547 Coverage Results" MODIFIED="1551690372388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ArrayAndSort" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_93.coverage" NAME="leedcode_93 Coverage Results" MODIFIED="1550742704922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_5.coverage" NAME="leetcode_5 Coverage Results" MODIFIED="1554705313750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$162.coverage" NAME="162 Coverage Results" MODIFIED="1568720167941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_9.coverage" NAME="leetcode_9 Coverage Results" MODIFIED="1554704197100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_14.coverage" NAME="leedcode_14 Coverage Results" MODIFIED="1550663191619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leetcode_236.coverage" NAME="leetcode_236 Coverage Results" MODIFIED="1553072690229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
     <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$leedcode_206.coverage" NAME="leedcode_206 Coverage Results" MODIFIED="1551955631495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedListAndTree" />
@@ -48,25 +57,28 @@
     <session id="951789461">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.0" value="3" />
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="6" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="87" />
+          <entry key="py" value="98" />
           <entry key="pyi" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="87" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="98" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -74,14 +86,14 @@
         <counts>
           <entry key="dummy" value="34" />
           <entry key="md" value="101" />
-          <entry key="py" value="29217" />
+          <entry key="py" value="30374" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="101" />
           <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="29217" />
+          <entry key="Python" value="30374" />
         </counts>
       </usages-collector>
     </session>
@@ -89,98 +101,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LinkedListAndTree/leetcode_236.py">
+        <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_33.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="53" column="31" lean-forward="true" selection-start-line="7" selection-end-line="53" selection-end-column="31" />
+            <state relative-caret-position="532">
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_60.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1463">
+              <caret line="77" column="93" selection-start-line="77" selection-start-column="93" selection-end-line="77" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String/leedcode_93.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/leetcode_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/leetcode_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="26" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/leetcode_22.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/162.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
-                <marker date="1553072880098" expanded="true" signature="85:168" ph="..." />
-                <marker date="1553072880098" expanded="true" signature="1620:1625" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/String/leedcode_53.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="40" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_121.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_122.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_146.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_155.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="23" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_221.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_300.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="22" selection-start-line="22" selection-end-line="46" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_354.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-              <folding>
-                <marker date="1553145176156" expanded="true" signature="531:592" ph="..." />
+                <marker date="1568720163083" expanded="true" signature="88:380" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/167.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="21" selection-end-column="35" />
+              <folding>
+                <marker date="1568721061030" expanded="true" signature="67:76" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/others/leetcode_9.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_432.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="146" column="49" lean-forward="true" selection-start-line="8" selection-end-line="146" selection-end-column="49" />
+            <state relative-caret-position="2774">
+              <caret line="146" column="49" selection-start-line="8" selection-end-line="146" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -215,7 +226,6 @@
         <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_15.py" />
         <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_215.py" />
-        <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_60.py" />
         <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_547.py" />
         <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_56.py" />
         <option value="$PROJECT_DIR$/LinkedListAndTree/leedcode_2.py" />
@@ -243,6 +253,15 @@
         <option value="$PROJECT_DIR$/String/leedcode_151.py" />
         <option value="$PROJECT_DIR$/String/leedcode_567.py" />
         <option value="$PROJECT_DIR$/DynamicPrograming/leetcode_122.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/ArrayAndSort/leedcode_60.py" />
+        <option value="$PROJECT_DIR$/others/leetcode_9.py" />
+        <option value="$PROJECT_DIR$/others/leetcode_5.py" />
+        <option value="$PROJECT_DIR$/others/leetcode_11.py" />
+        <option value="$PROJECT_DIR$/others/leetcode_22.py" />
+        <option value="$PROJECT_DIR$/others/temp.py" />
+        <option value="$PROJECT_DIR$/162.py" />
+        <option value="$PROJECT_DIR$/167.py" />
       </list>
     </option>
   </component>
@@ -264,7 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,6 +294,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,8 +324,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.leetcode_122">
-    <configuration name="LIS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.167">
+    <configuration name="162" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,12 +333,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\DynamicPrograming\leetcode_300.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/162.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_122" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="167" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,12 +355,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPrograming/leetcode_122.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/167.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +369,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_236" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,12 +377,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedListAndTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedListAndTree/leetcode_236.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/leetcode_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,7 +391,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_300" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="leetcode_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -380,12 +399,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPrograming/leetcode_300.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/leetcode_22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,7 +413,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_354" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,12 +421,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DynamicPrograming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DynamicPrograming/leetcode_354.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/temp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,19 +436,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode_236" />
-      <item itemvalue="Python.leetcode_354" />
-      <item itemvalue="Python.LIS" />
-      <item itemvalue="Python.leetcode_300" />
-      <item itemvalue="Python.leetcode_122" />
+      <item itemvalue="Python.leetcode_11" />
+      <item itemvalue="Python.leetcode_22" />
+      <item itemvalue="Python.temp" />
+      <item itemvalue="Python.162" />
+      <item itemvalue="Python.167" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.leetcode_122" />
-        <item itemvalue="Python.leetcode_354" />
-        <item itemvalue="Python.leetcode_300" />
-        <item itemvalue="Python.LIS" />
-        <item itemvalue="Python.leetcode_236" />
+        <item itemvalue="Python.167" />
+        <item itemvalue="Python.162" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.leetcode_22" />
+        <item itemvalue="Python.leetcode_11" />
       </list>
     </recent_temporary>
   </component>
@@ -448,13 +467,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1988273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20522387" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29207385" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29207385" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3724213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,8 +483,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.330076" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.330076" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -479,65 +499,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1529509993/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="289" column="4" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Anaconda/envs/machinelearning/Lib/site-packages/Cities/cities_retriever.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="76" selection-start-line="76" selection-end-line="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayAndSort/temp.py" />
-    <entry file="file://$PROJECT_DIR$/LinkedListAndTree/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" selection-start-line="3" selection-end-line="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classical/xorder_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-          <folding>
-            <marker date="1553045130346" expanded="true" signature="281:398" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classical/loser_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="54" column="37" lean-forward="true" selection-start-line="6" selection-end-line="54" selection-end-column="37" />
-          <folding>
-            <marker date="1553059277814" expanded="true" signature="36:1484" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-804977238/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="4391" column="8" selection-start-line="4391" selection-start-column="8" selection-end-line="4391" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LinkedListAndTree/nodes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -566,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_33.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="134" column="59" lean-forward="true" selection-start-line="86" selection-start-column="4" selection-end-line="134" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_42.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -594,25 +548,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_60.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="53" column="30" lean-forward="true" selection-start-line="30" selection-end-line="53" selection-end-column="30" />
-          <folding>
-            <marker date="1551683304656" expanded="true" signature="1419:1424" ph="..." />
-            <marker date="1551683304656" expanded="true" signature="1525:1805" ph="..." />
-            <marker date="1551683304656" expanded="true" signature="1838:1849" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_128.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" selection-start-line="12" selection-end-line="18" selection-end-column="52" />
-          <folding>
-            <marker date="1553148307084" expanded="true" signature="384:389" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -627,9 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="27" selection-start-line="27" selection-end-line="28" selection-end-column="10" />
-          <folding>
-            <marker date="1551690662813" expanded="true" signature="947:1316" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,13 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/String/leedcode_93.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="47" column="41" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="47" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/String/leedcode_151.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
@@ -710,13 +639,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinkedListAndTree/leedcode_23.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LinkedListAndTree/leedcode_23.py" />
     <entry file="file://$PROJECT_DIR$/LinkedListAndTree/leedcode_21.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -756,9 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#86#130#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,20 +693,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="53" column="31" lean-forward="true" selection-start-line="7" selection-end-line="53" selection-end-column="31" />
-          <folding>
-            <marker date="1553072880098" expanded="true" signature="85:168" ph="..." />
-            <marker date="1553072880098" expanded="true" signature="1620:1625" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_53.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_53.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="122" column="6" selection-start-line="122" selection-start-column="6" selection-end-line="122" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/String/leedcode_53.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="760">
+          <caret line="40" column="22" selection-start-line="30" selection-start-column="4" selection-end-line="40" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -814,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_155.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="33" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="23" selection-end-column="33" />
+          <caret line="23" column="33" selection-start-line="1" selection-start-column="4" selection-end-line="23" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -827,25 +748,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_300.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="418">
           <caret line="22" selection-start-line="22" selection-end-line="46" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_354.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="50" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <marker date="1553145176156" expanded="true" signature="531:592" ph="..." />
-          </folding>
+        <state relative-caret-position="589">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/temp.py" />
+    <entry file="file://$PROJECT_DIR$/Classical/loser_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_33.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArrayAndSort/leedcode_60.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="77" column="93" selection-start-line="77" selection-start-column="93" selection-end-line="77" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/leedcode_93.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/leetcode_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/leetcode_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/leetcode_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DynamicPrograming/leetcode_432.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="146" column="49" lean-forward="true" selection-start-line="8" selection-end-line="146" selection-end-column="49" />
+        <state relative-caret-position="2774">
+          <caret line="146" column="49" selection-start-line="8" selection-end-line="146" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/others/leetcode_22.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/162.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1568720163083" expanded="true" signature="88:380" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <marker date="1568721061030" expanded="true" signature="67:76" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

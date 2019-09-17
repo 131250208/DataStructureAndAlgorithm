@@ -75,37 +75,12 @@ class Solution(object):
         n_list = [i + 1 for i in range(n)]
         while len(factorial) != 0:
             block_size = factorial.pop()
-            block_n = int(math.ceil(k / block_size) - 1) #
+            block_n = math.ceil(k / block_size) - 1 # 要上取整再减1，因为整除的情况下，如果下取整，则会去到下一个区间，实则应该返回末尾值
             res = "{}{}".format(res, n_list.pop(block_n))
             k = k % block_size
 
         return "{}{}".format(res, n_list.pop(0))
 
-    # def get_all_per(self, nums, k):
-    #     if len(nums) == 1:
-    #         yield str(nums[0])
-    #
-    #     for ind in range(len(nums)):
-    #         nums_new = []
-    #         nums_new.extend(nums[:ind])
-    #         nums_new.extend(nums[ind + 1:])
-    #         for per in self.get_all_per(nums_new, k - 1):
-    #             yield "{}{}".format(nums[ind], per)
-    #
-    # def getPermutation(self, n, k):
-    #     """
-    #     :type n: int
-    #     :type k: int
-    #     :rtype: str
-    #     """
-    #     res = ""
-    #     count = 0
-    #     for i in self.get_all_per(list(range(n + 1))[1:], k):
-    #         res = i
-    #         count += 1
-    #         if count == k:
-    #             break
-    #     return res
 
 if __name__ == "__main__":
     sol = Solution()
