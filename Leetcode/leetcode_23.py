@@ -1,4 +1,4 @@
-from LinkedListAndTree.nodes import ListNode
+from Leetcode.nodes import ListNode
 
 class LoserTree:
     max_num = 99999999

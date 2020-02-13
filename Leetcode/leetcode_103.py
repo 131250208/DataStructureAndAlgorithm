@@ -3,7 +3,7 @@ leetcode_103 Binary Tree Zigzag Level Order Traversal
 
 思路：1 queue and 1 stack
 '''
-from LinkedListAndTree.nodes import TreeNode
+from Leetcode.nodes import TreeNode
 from collections import deque
 
 class Solution:

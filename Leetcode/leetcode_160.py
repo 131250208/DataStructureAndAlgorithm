@@ -10,7 +10,7 @@
 3. 如果两个指针走完都没有相遇，则返回null
 '''
 
-from LinkedListAndTree.nodes import ListNode
+from Leetcode.nodes import ListNode
 
 class Solution(object):
     def getIntersectionNode(self, headA: ListNode, headB: ListNode):

@@ -2,7 +2,7 @@
 leetcode_236
 '''
 
-from LinkedListAndTree.nodes import TreeNode
+from Leetcode.nodes import TreeNode
 
 
 class Operation:
