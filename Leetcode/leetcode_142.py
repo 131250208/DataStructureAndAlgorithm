@@ -35,7 +35,7 @@
     6. 因为起点到入口的距离也是a，所以令一个新指针从起点开始走，与slow会在入口相遇。
 '''
 
-from Leetcode.nodes import ListNode
+from Others.nodes import ListNode
 
 class Solution(object):
     def detectCycle(self, head: ListNode):

@@ -1,5 +1,5 @@
-from Leetcode.nodes import ListNode
-
+# -*- encoding:utf-8 -*-
+from Others.nodes import ListNode
 class LoserTree:
     max_num = 99999999
 

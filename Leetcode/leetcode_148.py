@@ -16,7 +16,7 @@
 3. 调用merge归并两个已排序链表
 '''
 
-from Leetcode.nodes import ListNode
+from Others.nodes import ListNode
 
 class Solution:
     def sortList(self, head: ListNode) -> ListNode:

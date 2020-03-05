@@ -2,7 +2,7 @@
 leetcode_236
 '''
 
-from Leetcode.nodes import TreeNode
+from Others.nodes import TreeNode
 
 
 class Operation:
@@ -12,7 +12,7 @@ class Operation:
 
 
 class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode'):
+    def lowestCommonAncestor(self, root, p, q):
         '''
         iterative version
         :param root:
