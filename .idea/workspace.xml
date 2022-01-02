@@ -21,6 +21,15 @@
   <component name="ChangeListManager">
     <list default="true" id="fe49ada4-1f92-43ef-b7b9-9ec607b2a7d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/28. Implement strStr().md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/28. Implement strStr().md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28.strStr()_KMP.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_06.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/pmt.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +261,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550650202929</updated>
-      <workItem from="1641094913852" duration="1485000" />
+      <workItem from="1641094913852" duration="2026000" />
     </task>
     <servers />
   </component>
