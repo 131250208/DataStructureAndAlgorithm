@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fe49ada4-1f92-43ef-b7b9-9ec607b2a7d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataStructureAndAlgorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/leetcode_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/leetcode_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RealExame/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RealExame/jump_slabstone.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,17 +97,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Leetcode" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes/src/28.strStr()_KMP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\DynamicPrograming" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\LinkedListAndTree" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\DataStructureAndAlgorithm\Notes\src\28.strStr()_KMP" />
+      <recent name="D:\code\python\DataStructureAndAlgorithm\Leetcode" />
+      <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\DynamicPrograming" />
     </key>
   </component>
   <component name="RunManager" selected="Python.167">
@@ -237,7 +251,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550650202929</updated>
-      <workItem from="1641094913852" duration="362000" />
+      <workItem from="1641094913852" duration="1124000" />
     </task>
     <servers />
   </component>
