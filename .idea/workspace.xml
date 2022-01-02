@@ -97,7 +97,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes/src/28.strStr()_KMP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -107,6 +107,7 @@
       <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\LinkedListAndTree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\DataStructureAndAlgorithm\Notes" />
       <recent name="D:\code\python\DataStructureAndAlgorithm\Notes\src\28.strStr()_KMP" />
       <recent name="D:\code\python\DataStructureAndAlgorithm\Leetcode" />
       <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\DynamicPrograming" />
@@ -251,7 +252,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550650202929</updated>
-      <workItem from="1641094913852" duration="1124000" />
+      <workItem from="1641094913852" duration="1485000" />
     </task>
     <servers />
   </component>
