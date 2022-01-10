@@ -21,15 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fe49ada4-1f92-43ef-b7b9-9ec607b2a7d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/28. Implement strStr().md" beforeDir="false" afterPath="$PROJECT_DIR$/Notes/28. Implement strStr().md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28.strStr()_KMP.pptx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_01.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_02.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_03.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_04.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_05.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/28_06.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes/src/28.strStr()_KMP/28.strStr()_KMP/pmt.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +79,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="cf5a0288-c867-4ae4-9a11-2207be933743" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
+  <component name="JupyterTrust" id="a1c464db-55df-4fc0-90d6-bebc773569da" />
   <component name="ProjectId" id="237pK48XIFaUgIDLX8r7MO0YlkE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -106,7 +91,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Notes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -116,14 +101,14 @@
       <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\LinkedListAndTree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\python\DataStructureAndAlgorithm\Leetcode" />
       <recent name="D:\code\python\DataStructureAndAlgorithm\Notes" />
       <recent name="D:\code\python\DataStructureAndAlgorithm\Notes\src\28.strStr()_KMP" />
-      <recent name="D:\code\python\DataStructureAndAlgorithm\Leetcode" />
       <recent name="G:\ProjectCode\PyCharmProjects\DataStructureAndAlgorithm\DynamicPrograming" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.167">
-    <configuration name="162" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.63. Unique Paths II">
+    <configuration name="509. Fibonacci Number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/162.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/509. Fibonacci Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="167" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="62. Unique Paths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +138,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/167.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/62. Unique Paths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="63. Unique Paths II" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +160,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/leetcode_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/63. Unique Paths II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="leetcode_22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="70. Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,12 +182,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/leetcode_22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/70. Climbing Stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="746. Min Cost Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DataStructureAndAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leetcode/746. Min Cost Climbing Stairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,19 +219,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.leetcode_11" />
-      <item itemvalue="Python.leetcode_22" />
-      <item itemvalue="Python.temp" />
-      <item itemvalue="Python.162" />
-      <item itemvalue="Python.167" />
+      <item itemvalue="Python.509. Fibonacci Number" />
+      <item itemvalue="Python.70. Climbing Stairs" />
+      <item itemvalue="Python.746. Min Cost Climbing Stairs" />
+      <item itemvalue="Python.62. Unique Paths" />
+      <item itemvalue="Python.63. Unique Paths II" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.167" />
-        <item itemvalue="Python.162" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.leetcode_22" />
-        <item itemvalue="Python.leetcode_11" />
+        <item itemvalue="Python.63. Unique Paths II" />
+        <item itemvalue="Python.62. Unique Paths" />
+        <item itemvalue="Python.746. Min Cost Climbing Stairs" />
+        <item itemvalue="Python.70. Climbing Stairs" />
+        <item itemvalue="Python.509. Fibonacci Number" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +246,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550650202929</updated>
-      <workItem from="1641094913852" duration="2026000" />
+      <workItem from="1641094913852" duration="24744000" />
+      <workItem from="1641783241373" duration="1756000" />
     </task>
     <servers />
   </component>
@@ -278,8 +264,58 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1191" height="571" key="GridCell.Tab.0.bottom" timestamp="1641297085381">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641297085381" />
+    <state width="1191" height="571" key="GridCell.Tab.0.center" timestamp="1641297085381">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="571" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641297085381" />
+    <state width="1191" height="571" key="GridCell.Tab.0.left" timestamp="1641297085381">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="571" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641297085381" />
+    <state width="1191" height="571" key="GridCell.Tab.0.right" timestamp="1641297085381">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="571" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641297085381" />
+    <state width="1191" height="736" key="GridCell.Tab.1.bottom" timestamp="1641296671070">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="736" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641296671070" />
+    <state width="1191" height="736" key="GridCell.Tab.1.center" timestamp="1641296671070">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="736" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641296671070" />
+    <state width="1191" height="736" key="GridCell.Tab.1.left" timestamp="1641296671070">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="736" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641296671070" />
+    <state width="1191" height="736" key="GridCell.Tab.1.right" timestamp="1641296671070">
+      <screen x="1920" y="0" width="1234" height="2154" />
+    </state>
+    <state width="1191" height="736" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1234.2154@1920.0.1234.2154" timestamp="1641296671070" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$491__Increasing_Subsequences.coverage" NAME="491. Increasing Subsequences Coverage Results" MODIFIED="1641200975706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$62__Unique_Paths.coverage" NAME="62. Unique Paths Coverage Results" MODIFIED="1641292361058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$39__Combination_Sum.coverage" NAME="39. Combination Sum Coverage Results" MODIFIED="1641182473523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$77__Combinations.coverage" NAME="77. Combinations Coverage Results" MODIFIED="1641179797862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$42__Trapping_Rain_Water.coverage" NAME="42. Trapping Rain Water Coverage Results" MODIFIED="1641288239748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$216__Combination_Sum_III.coverage" NAME="216. Combination Sum III Coverage Results" MODIFIED="1641180791679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$70__Climbing_Stairs.coverage" NAME="70. Climbing Stairs Coverage Results" MODIFIED="1641291307695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$509__Fibonacci_Number.coverage" NAME="509. Fibonacci Number Coverage Results" MODIFIED="1641290816590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$131__Palindrome_Partitioning.coverage" NAME="131. Palindrome Partitioning Coverage Results" MODIFIED="1641196716404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$40__Combination_Sum_II.coverage" NAME="40. Combination Sum II Coverage Results" MODIFIED="1641193591210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$746__Min_Cost_Climbing_Stairs.coverage" NAME="746. Min Cost Climbing Stairs Coverage Results" MODIFIED="1641291765741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$93__Restore_IP_Addresses.coverage" NAME="93. Restore IP Addresses Coverage Results" MODIFIED="1641200053489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
+    <SUITE FILE_PATH="coverage/DataStructureAndAlgorithm$63__Unique_Paths_II.coverage" NAME="63. Unique Paths II Coverage Results" MODIFIED="1641297085376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Leetcode" />
   </component>
 </project>
